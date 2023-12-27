@@ -20,6 +20,6 @@ git lfs install
 sudo git lfs install --system
 ```
 
-6. Clone the ISETBioLargeData repository from https:github.com/isetbio/ISETBioLargeData.git
+6. Clone the ISETBioLargeData repository from https://github.com/isetbio/ISETBioLargeData.git
 
 
