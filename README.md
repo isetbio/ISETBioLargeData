@@ -1,6 +1,6 @@
 # ISETBioLargeData
 
-A Git-lfs repository for storing large data sets (> 100MBytes).
+A Git-LFS repository for storing large data sets (> 100MBytes).
 
 ## Installation instructions:
 
