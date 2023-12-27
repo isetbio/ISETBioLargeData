@@ -9,7 +9,7 @@ A Git-lfs repository for storing large data sets (> 100MBytes).
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
 
-2. Install git-lfs as follows:
+2. Install Git-LFS as follows:
 ```
 brew install git-lfs
 ```
